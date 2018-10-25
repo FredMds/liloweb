@@ -135,7 +135,7 @@ h6,.h6{
 }
 .footer-light .widget-title,
 .footer-light .widget-title a{
-	color: #000;
+	color: #4F4949;
 }
 .sidebar .widget-title,
 .sidebar .widget-title a{
@@ -143,7 +143,7 @@ h6,.h6{
 	letter-spacing: 0.1rem;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #666;
+	color: #4F4949;
 }
 .side-navigation-wrapper .widget-title,
 .side-navigation-wrapper .widget-title a{
@@ -166,7 +166,7 @@ p a,
 .sidebar .widget a,
 .shop .product-summary a,
 .shop .cart-overview a{
-	color: #666;
+	color: #999;
 }
 a:hover,
 p a:hover,
@@ -755,6 +755,7 @@ body,
 	.header .logo-inner{
 		display: table-cell;
 		vertical-align: middle;
+		width: 20
 	}
 	.header .logo a{
 		position: relative;
