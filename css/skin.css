@@ -751,7 +751,7 @@ body,
 	-webkit-transform: translateY(0);
 	transform: translateY(0);
 }
-@media only screen and (max-width: 960px){
+@media only screen and (width: 90%){
 	.header .logo-inner{
 		display: table-cell;
 		vertical-align: middle;
@@ -4189,6 +4189,6 @@ only screen and (				min-resolution: 2dppx) {
 	background-color: #4f4949 !important;
 }
 
-.pb-40, .section-block.pb-40{
+.section-block{
 	background-color: #4f4949 !important;
 }
