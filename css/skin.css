@@ -755,12 +755,11 @@ body,
 	.header .logo-inner{
 		display: table-cell;
 		vertical-align: middle;
-		width: 20
 	}
 	.header .logo a{
 		position: relative;
 	}
-	.header .logo a:first-child{
+	/* .header .logo a:first-child{
 		opacity: 1;
 		top: 0;
 		-webkit-transform: translateX(0) !important;
@@ -768,7 +767,7 @@ body,
 	}
 	.header:not(.header-dark) .logo a:last-child{
 		display: none !important;
-	}
+	} */
 }
 
 /*------------------------------------------------------------------
