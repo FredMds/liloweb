@@ -3307,7 +3307,7 @@ hr,
 	        transition-duration: 400ms;
 }
 a.animated-link:hover .text-line,
-a.overlay-link:hover .text-line{
+a.overlay-link:hover .text-line{	
 	width: 2rem;
 	-webkit-transform: rotate(0deg);
 	   -moz-transform: rotate(0deg);
